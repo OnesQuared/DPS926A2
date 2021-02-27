@@ -1,6 +1,5 @@
 {
   "Tickets": 
-  { "ConcertTicket":    
     [
       {
           "name": "World Tour",
@@ -36,9 +35,7 @@
           "date": 20140513,
           "price": 24.99,
           "genre": "Pop Rock"
-      }
-     ], "MovieTicket": 
-        [
+      },
       {
           "name": "Gone with the Wind",
           "type": "Movie",
@@ -73,9 +70,8 @@
           "date": 20000905,
           "price": 13.99,
           "genre": "Thriller"
-      }
-     ], "TheatreTicket": 
-   [
+      },
+
            {
           "name": "Hamlet",
           "type": "Theatre",
@@ -111,8 +107,7 @@
           "price": 13.99,
           "genre": "Tradegy"
       }
-     
-       ]
-  }
+
+      ]
  
 }
