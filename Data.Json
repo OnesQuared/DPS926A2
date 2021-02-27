@@ -1,0 +1,118 @@
+{
+  "Tickets": 
+  { "Concert":    
+    [
+      {
+          "name": "World Tour",
+          "type": "Concert",
+          "date": 20140201,
+          "price": 24.99,
+          "genre": "Metal"
+      },
+      {
+          "name": "Toronto Concert",
+          "type": "Concert",
+          "date": 20170501,
+          "price": 24.99,
+          "genre": "Rock"
+      },
+      {
+          "name": "Kingston Concert",
+          "type": "Concert",
+          "date": 20170504,
+          "price": 24.99,
+          "genre": "Pop"
+      },
+      {
+          "name": "Ottawa Concert",
+          "type": "Concert",
+          "date": 20140508,
+          "price": 24.99,
+          "genre": "Hip Hop"
+      },
+      {
+          "name": "Montreal Concert",
+          "type": "Concert",
+          "date": 20140513,
+          "price": 24.99,
+          "genre": "Pop Rock"
+      }
+     ], "Movie Ticket": 
+        [
+      {
+          "name": "Gone with the Wind",
+          "type": "Movie",
+          "date": 20140801,
+          "price": 14.99,
+          "genre": "Romance"
+      },
+      {
+          "name": "The Road",
+          "type": "Movie",
+          "date": 20090514,
+          "price": 16.99,
+          "genre": "Drama"
+      },
+      {
+          "name": "Sunshine ",
+          "type": "Movie",
+          "date": 20070119,
+          "price": 17.99,
+          "genre": "Thriller"
+      },
+      {
+          "name": "Ruby Sparks",
+          "type": "Movie",
+          "date": 20120420,
+          "price": 15.99,
+          "genre": "Comedy"
+      },
+      {
+          "name": "Memento",
+          "type": "Movie",
+          "date": 20000905,
+          "price": 13.99,
+          "genre": "Thriller"
+      }
+     ], "Theatre Ticket": 
+   [
+           {
+          "name": "Hamlet",
+          "type": "Theatre",
+          "date": 20180801,
+          "price": 14.99,
+          "genre": "Tradegy"
+      },
+      {
+          "name": "Macbeth",
+          "type": "Theatre",
+          "date": 20180514,
+          "price": 16.99,
+          "genre": "Tradegy"
+      },
+      {
+          "name": "Othello",
+          "type": "Theatre",
+          "date": 20070119,
+          "price": 17.99,
+          "genre": "Tradegy"
+      },
+      {
+          "name": "A Midsummer Night's Dream",
+          "type": "Theatre",
+          "date": 20180420,
+          "price": 15.99,
+          "genre": "Comedy"
+      },
+      {
+          "name": "Romeo and Juliet",
+          "type": "Theatre",
+          "date": 20180905,
+          "price": 13.99,
+          "genre": "Tradegy"
+      }
+     
+       ]
+  }
+ 
+}
