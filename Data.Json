@@ -1,6 +1,6 @@
 {
   "Tickets": 
-  { "Concert":    
+  { "ConcertTicket":    
     [
       {
           "name": "World Tour",
@@ -37,7 +37,7 @@
           "price": 24.99,
           "genre": "Pop Rock"
       }
-     ], "Movie Ticket": 
+     ], "MovieTicket": 
         [
       {
           "name": "Gone with the Wind",
@@ -74,7 +74,7 @@
           "price": 13.99,
           "genre": "Thriller"
       }
-     ], "Theatre Ticket": 
+     ], "TheatreTicket": 
    [
            {
           "name": "Hamlet",
